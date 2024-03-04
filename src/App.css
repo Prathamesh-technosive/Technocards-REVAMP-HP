@@ -1,0 +1,11 @@
+.react-international-phone-input-container {
+  width: 100%;
+}
+.react-international-phone-input-container .react-international-phone-input {
+  width: 100%;
+  font-size: 0.9rem;
+}
+.react-international-phone-input-container
+  .react-international-phone-country-selector-button {
+  padding: 0.2rem;
+}
